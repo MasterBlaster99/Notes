@@ -1,2 +1,2 @@
 # Notes
-CRUD operations in real time using MVVM architecture , Room DB , Coroutines
+CRUD operations in real time using MVVM, Room DB , Coroutines
